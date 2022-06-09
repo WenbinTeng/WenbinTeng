@@ -10,8 +10,6 @@ Welcome to my page!
 
 ---
 
-![](http://antzuhl.cn:4000/get/@littleTreeme)
-
 <br>
 
 <p align="left">
