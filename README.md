@@ -4,19 +4,9 @@ Welcome to my page!
 - 🌱 I’m currently learning **Hardware/Compiler/Framework for AI**
 - 💬 Be Free to ask me about everything
 - 📫 How to reach me: WenbinTeng@163.com
-- ⚡ Interests: 🍉🍈🍊🍋🍍🥭🍎🍏🍌🍐🥑🍑🍒🍇🍓🥝🍰🍹
-
 <br>
 
 ---
-
-<br>
-
-<p align="left">
-  <img src="https://badges.pufler.dev/visits/WenbinTeng/WenbinTeng?style=flat-square&color=black&logo=github">
-  <img src="https://badges.pufler.dev/years/WenbinTeng?style=flat-square&color=black&logo=github">
-  <img src="https://badges.pufler.dev/repos/WenbinTeng?style=flat-square&color=black&logo=github">
-</p>
 
 <br>
 
