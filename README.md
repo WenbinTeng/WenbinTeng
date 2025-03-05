@@ -4,6 +4,7 @@ Welcome to my page!
 - 🌱 I’m currently learning **Hardware/Compiler/Framework for AI**
 - 💬 Be Free to ask me about everything
 - 📫 How to reach me: WenbinTeng@163.com
+- 👉 My blogs : https://www.cnblogs.com/wenbinteng
 <br>
 
 ---
