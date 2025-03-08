@@ -1,10 +1,10 @@
 ### Hi there, 👋 I'm Teng Wenbin 🤡
 Welcome to my page!
+- 👉 My blogs : https://www.cnblogs.com/wenbinteng
 - 🔭 I’m currently working on **Computer Architecture**
 - 🌱 I’m currently learning **Hardware/Compiler/Framework for AI**
 - 💬 Be Free to ask me about everything
 - 📫 How to reach me: WenbinTeng@163.com
-- 👉 My blogs : https://www.cnblogs.com/wenbinteng
 <br>
 
 ---
